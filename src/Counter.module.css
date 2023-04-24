@@ -1,0 +1,33 @@
+
+
+.counter{
+    padding-top: 100px;
+    font-weight: bolder;
+}
+
+.allign-1{
+    
+    display: inline-flex;
+    font-weight: bolder;
+
+
+}
+
+.one{
+    padding-left: 460px;
+    font-weight: bolder;
+
+}
+
+.two{
+    padding-left: 100px;
+}
+
+.three{
+    padding-left: 100px;
+}
+
+.bruh{
+    font-weight: bolder;
+
+}

@@ -1,0 +1,52 @@
+.guest-list{
+    list-style: none;
+    list-style-type: none;
+    padding-right: 25px;
+}
+
+.guest-button-1{
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: rgb(255, 255, 255);
+    width: 25%;
+    border: 0;
+    padding: 15px;
+    color: #000000;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    padding-right: 10px;
+}
+
+.guest-button-2{
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: rgb(255, 255, 255);
+    width: 37%;
+    border: 0;
+    padding: 15px;
+    color: #000000;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
+
+.guest-button-1:hover{
+    color: white;
+    background-color: green;
+}
+
+.guest-button-2:hover{
+    color: white;
+    background-color: red;
+}
+
+input.check {
+    width: 17px;
+    height: 17px;
+}
+
