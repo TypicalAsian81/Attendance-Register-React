@@ -29,7 +29,7 @@ NIT-T hosts two intercollegiate fests namely Festember (Cultural) and Pragyan (T
            <button className="button-24-2">Student Login</button>
        </div>
        <div className="regard-1">
-         <p div className="info-1">Made with ❤️ by Iman | Aatheesh | Ahnaf</p>
+         <p div className="info-1">Made with ❤️ by Iman</p>
        </div>       
        </div>
     )
