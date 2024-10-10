@@ -24,7 +24,7 @@ export const Login = () => {
 </div>
 <div className="regard">
 <p><b>Kindly refer to your webmail credentials for login!</b></p>
-<p div className="info">Made with ❤️ by Iman | Aatheesh | Ahnaf</p>
+<p div className="info">Made with ❤️ by Iman</p>
 </div>
 
 </div>
